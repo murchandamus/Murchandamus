@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Murch. I work on Bitcoin-related projects at Localhost Research.
+I'm Murch. I work on Bitcoin-related projects at [Localhost Research](https://lclhost.org/).
 
 - 📫 How to reach me:
   - Matrix chat: @murch:matrix.org
