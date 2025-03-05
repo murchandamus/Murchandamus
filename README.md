@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Murch. I work on Bitcoin-related projects at Chaincode Labs.
+I'm Murch. I work on Bitcoin-related projects at Localhost Research.
 
 - 📫 How to reach me:
   - Matrix chat: @murch:matrix.org
